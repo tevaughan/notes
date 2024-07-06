@@ -13,6 +13,6 @@ Here is some math for example: $\sqrt{x}$.
 
 - [index][]
 
-[index]: index
+[index]: index.md
 
 <!-- EOF -->
