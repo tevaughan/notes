@@ -3,14 +3,15 @@
 
 I am managing the notes hare via
 
-- [mkdnflow][] in [neovim][] and
-- [GitJournal][] on my iPhone.
+- [mkdnflow][mkdnflow] in [neovim][neovim] and
+- [GitJournal][GitJournal] on my iPhone.
 
-[mkdnflow][]'s author recommends using `index.md` as the landing page at the
-root of a notebook.
+[mkdnflow][mkdnflow]'s author [recommends][start] using `index.md` as the
+landing page at the root of a notebook.
 
 [mkdnflow]: https://github.com/jakewvincent/mkdnflow.nvim
 [neovim]: https://neovim.io
 [GitJournal]: https://gitjournal.io
+[start]: https://github.com/jakewvincent/mkdnflow.nvim?tab=readme-ov-file#-starting-a-notebook
 
 <!-- EOF -->
