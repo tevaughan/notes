@@ -1,7 +1,7 @@
 
 # Landing Page
 
-I am managing the notes hare via
+I am managing the notes here via
 
 - [mkdnflow][mkdnflow] in [neovim][neovim] and
 - [GitJournal][GitJournal] on my iPhone.
