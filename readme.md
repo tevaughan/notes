@@ -1,4 +1,3 @@
-
 # Notes
 
 Repository for markdown-notes.
