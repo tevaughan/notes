@@ -1,3 +1,4 @@
 # To Do
 
-- Register 2011 Toyota Corolla.
+- For 2011 Corolla, apply for license plates
+  on or after 2024 Aug 15.
