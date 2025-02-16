@@ -11,4 +11,8 @@
 - Get Mary’s account at First Bank switched
   to me.
 
+- Christmas-shopping:
+  - books for learning Latin
+  - model of internal-combustion engine
+
 <!-- EOF -->
