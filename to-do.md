@@ -8,6 +8,7 @@
 - Work on rust.
 - Read Maritain's book on being.
 
-- Get Mary’s account at First Bank switched to me.
-- 
+- Get Mary’s account at First Bank switched
+  to me.
+
 <!-- EOF -->
