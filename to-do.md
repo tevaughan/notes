@@ -12,7 +12,10 @@
   to me.
 
 - Christmas-shopping:
+
   - books for learning Latin
   - model of internal-combustion engine
+
+- Work on stocks-package from Live Oak.
 
 <!-- EOF -->
