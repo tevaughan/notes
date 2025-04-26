@@ -12,7 +12,11 @@
   to me.
 
 - Christmas-shopping:
+
   - books for learning Latin
   - model of internal-combustion engine
+
+- Work on stocks-package from Live Oak.
+- Write speech for Ana's graduation.
 
 <!-- EOF -->
