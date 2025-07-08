@@ -1,8 +1,10 @@
 # To Do
 
+- Transfer money to First Bank for mortgage
+  for 742 Picket.
+
 - Upload appraisal-reports to Hawkins &
   Martinez.
-
   - https://hawkinsmartinez.securefilepro.com/connect/#/login?next=files
 
 - Work on rust.
@@ -12,7 +14,6 @@
   to me.
 
 - Christmas-shopping:
-
   - books for learning Latin
   - model of internal-combustion engine
 
