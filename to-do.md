@@ -1,5 +1,7 @@
 # To Do
 
+- Call Wells Fargo about medallion-stamp.
+
 - Obtain passport.
   - Obtain paperwork for trip from work.
 
