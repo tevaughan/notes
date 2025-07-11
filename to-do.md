@@ -1,16 +1,13 @@
 # To Do
 
-- Call Wells Fargo about medallion-stamp.
-
 - Obtain passport.
   - Obtain paperwork for trip from work.
 
-- Upload appraisal-reports to Hawkins &
-  Martinez.
-  - https://hawkinsmartinez.securefilepro.com/connect/#/login?next=files
-
 - Work on rust.
+
 - Read Maritain's book on being.
+
+- Set up donation to Artseed.
 
 - Christmas-shopping:
   - books for learning Latin
