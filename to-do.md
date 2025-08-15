@@ -1,8 +1,5 @@
 # To Do
 
-- Obtain passport.
-  - Obtain paperwork for trip from work.
-
 - Work on rust.
 
 - Read Maritain's book on being.
