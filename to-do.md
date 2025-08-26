@@ -14,4 +14,7 @@
   - Wells Fargo no longer offers Medallion
     service.
 
+- Buy empty file-folders and small file-case
+  for my desk at home.
+
 <!-- EOF -->
