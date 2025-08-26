@@ -14,7 +14,14 @@
   - Wells Fargo no longer offers Medallion
     service.
 
-- Buy empty file-folders and small file-case
-  for my desk at home.
+- Van:
+  - Schedule work at Costco:
+    - Two new tires.
+    - Alignment.
+  - Schedule work at Stonum:
+    - Replace dark rear differential-fluid.
+      - Replace cover-seal too.
+    - Replace spark-plugs (due at 105000).
+    - Replace leaking front shocks.
 
 <!-- EOF -->
