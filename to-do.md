@@ -32,4 +32,7 @@
       line.
   - 7203404953
 
+- Cancel TruGreen for Picket.
+  - 9704070993
+
 <!-- EOF -->
