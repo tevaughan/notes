@@ -1,5 +1,21 @@
 # To Do
 
+- On 2025 September 05 (Friday), cancel Citi
+  Card.
+
+- On 2025 September 09 (Tuesday), cancel
+  watch-line at T-mobile.
+
+- Mauricio
+  - Answer question.
+  - Ask about lawyer who can deal with the
+    Medallion-stuff.
+
+- Go to post-office to ask about best way to
+  have mail for Mary, George, and Thomas
+  forwarded from Picket Lane to Serenity
+  Circle.
+
 - Work on rust.
 
 - Read Maritain's book on being.
@@ -23,13 +39,5 @@
       - Replace cover-seal too.
     - Replace spark-plugs (due at 105000).
     - Replace leaking front shocks.
-
-- Pay JLB Landscape and Construction, Inc.
-  - Invoice 0625-82 seems outstanding.
-    - $105.00
-  - https://jlbservices.com
-    - I could not discover how to pay on
-      line.
-  - 7203404953
 
 <!-- EOF -->
