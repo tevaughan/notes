@@ -6,6 +6,9 @@
 - On 2025 September 16 (Tuesday),
   - take Lawrence to dentist in Lakewood.
 
+- Send letter to change address of Citi card.
+  - PO Box 790034. St. Louis, MO 63179
+ 
 - Go to post-office to ask about best way to
   have mail for Mary, George, and Thomas
   forwarded from Picket Lane to Serenity
