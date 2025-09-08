@@ -1,15 +1,10 @@
 # To Do
 
-- On 2025 September 05 (Friday), cancel Citi
-  Card.
+- On 2025 September 09 (Tuesday),
+  - cancel watch-line at T-mobile, and
 
-- On 2025 September 09 (Tuesday), cancel
-  watch-line at T-mobile.
-
-- Mauricio
-  - Answer question.
-  - Ask about lawyer who can deal with the
-    Medallion-stuff.
+- On 2025 September 16 (Tuesday),
+  - take Lawrence to dentist in Lakewood.
 
 - Go to post-office to ask about best way to
   have mail for Mary, George, and Thomas
@@ -37,7 +32,8 @@
   - Schedule work at Stonum:
     - Replace dark rear differential-fluid.
       - Replace cover-seal too.
-    - Replace spark-plugs (due at 105000).
+    - Replace spark-plugs (due at 105000
+      miles).
     - Replace leaking front shocks.
 
 <!-- EOF -->
