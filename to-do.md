@@ -6,9 +6,8 @@
 - On 2025 September 16 (Tuesday),
   - take Lawrence to dentist in Lakewood.
 
-- Send letter to change address of Citi
-  card.
-  - PO Box 790034. St. Louis, MO 63179
+- Contact Beth Montague about Medallion.
+  - https://www.flanderslaw.com/lawyers/elizabeth-a-montague
 
 - Work on rust.
 
