@@ -1,7 +1,7 @@
 # To Do
 
 - On 2025 September 09 (Tuesday),
-  - cancel watch-line at T-mobile, and
+  - cancel watch-line at T-mobile.
 
 - On 2025 September 16 (Tuesday),
   - take Lawrence to dentist in Lakewood.
