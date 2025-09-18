@@ -6,6 +6,8 @@
 - On 2025 September 24 (Wednesday) 13:30,
   - appointment at motor-vehicle office.
 
+- Find title for Ciaran's car.
+
 - Work on rust.
 
 - Read Maritain's book on being.
