@@ -3,11 +3,8 @@
 - On 2025 September 09 (Tuesday),
   - cancel watch-line at T-mobile.
 
-- On 2025 September 16 (Tuesday),
-  - take Lawrence to dentist in Lakewood.
-
-- Contact Beth Montague about Medallion.
-  - https://www.flanderslaw.com/lawyers/elizabeth-a-montague
+- On 2025 September 24 (Wednesday) 13:30,
+  - appointment at motor-vehicle office.
 
 - Work on rust.
 
