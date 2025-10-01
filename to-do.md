@@ -18,15 +18,14 @@
   - books for learning Latin
   - model of internal-combustion engine
 
-- Figure out what to do about Medallion.
-  - Wells Fargo no longer offers Medallion
-    service.
+- Do [research][msg-research] on Medallion.
+
+[msg-research]:
+  https://www.msglookup.com/search
 
 - Van:
-  - Schedule work at Costco:
-    - Two new tires.
-    - Alignment.
   - Schedule work at Stonum:
+    - Alignment.
     - Replace dark rear differential-fluid.
       - Replace cover-seal too.
     - Replace spark-plugs (due at 105000
