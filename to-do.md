@@ -18,11 +18,6 @@
   - books for learning Latin
   - model of internal-combustion engine
 
-- Do [research][msg-research] on Medallion.
-
-[msg-research]:
-  https://www.msglookup.com/search
-
 - Van:
   - Schedule work at Stonum:
     - Alignment.
