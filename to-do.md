@@ -1,17 +1,17 @@
 # To Do
 
-- On 2025 September 09 (Tuesday),
-  - cancel watch-line at T-mobile.
+- Meet Kim Scott at FirstBank.
+  - 2025 Oct 09 (Thu) 14:00.
+  - Bring Medallion packet,
+    death-certificate, letters testamentary,
+    etc.
 
-- On 2025 September 24 (Wednesday) 13:30,
-  - appointment at motor-vehicle office.
+- Upload letters testamentary (PDF) to
+  Mauricio's web-site.
 
-- Find title for Ciaran's car.
-
+- Cancel watch-line at T-mobile.
 - Work on rust.
-
 - Read Maritain's book on being.
-
 - Set up donation to Artseed.
 
 - Christmas-shopping:
