@@ -1,13 +1,11 @@
 # To Do
 
-- Change address at Post Office.
-  - Take paperwork like death-certificate.
-
-- Call Citi (again) to cancel card.
-- Call USAA to cancel insurance on Picket.
 - Change title of 2017 Camry.
 - Review open enrollment for BAE.
 - Ask Live Oak about Fidelity X26-104175.
+
+- Somehow deal with running out of space at
+  Google (photos, email, etc.).
 
 - Set up new meeting with Kim Scott at
   Firstbank.
