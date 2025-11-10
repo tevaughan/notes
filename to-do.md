@@ -27,10 +27,10 @@
 
 - Van:
   - Schedule work at Stonum:
-    - Alignment.
-    - Replace spark-plugs (due at 105000
-      miles).
-    - Replace leaking front shocks.
+    - Small leak in transmission-cooler-line
+      fitting.
+    - Locking mechanism in side-door needs
+      replacement.
 
 - Investigate supplements recommended by Joe
   Carey.
