@@ -5,42 +5,49 @@ name: Build and Deploy MkDocs
 on:
   push:
     branches:
-      - master # Trigger on commits to master
+      - master # Trigger on commits to master.
 
 permissions:
-  contents: write # for pushing to gh-pages branch
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout.
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python.
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Install dependencies.
         run: |
           pip install mkdocs mkdocs-material
-          # or: pip install -r requirements.txt
+          # pip install -r requirements.txt
 
       - name: Generate mkdocs.yml
         run: python3 generate_mkdocs_yml.py
 
-      - name: Build site
-        working-directory: ${{ github.workspace }}
+      - name: Build site.
         run: mkdocs build --verbose
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact.
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site
-          publish_branch: gh-pages
-          force_orphan: true
+          path: site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages.
+        id: deployment
+        uses: actions/deploy-pages@v4
 #
 # EOF
