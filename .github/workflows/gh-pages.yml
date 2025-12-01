@@ -32,7 +32,10 @@ jobs:
         run: python3 generate_mkdocs_yml.py
 
       - name: Build site
-        run: mkdocs build
+        working-directory: ${{ github.workspace }}
+        run: |
+          mkdocs build --verbose
+          ls -R site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
