@@ -33,15 +33,14 @@ jobs:
 
       - name: Build site
         working-directory: ${{ github.workspace }}
-        run: |
-          mkdocs build --verbose
-          ls -R site
+        run: mkdocs build --verbose
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ${{ github.workspace }}/site
+          publish_dir: ./site
           publish_branch: gh-pages
+          force_orphan: true
 #
 # EOF
