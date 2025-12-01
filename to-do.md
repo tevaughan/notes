@@ -18,6 +18,7 @@
 
 - Cancel watch-line at T-mobile.
 - Work on rust.
+- Work on python.
 - Read Maritain's book on being.
 - Set up donation to Artseed.
 
