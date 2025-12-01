@@ -1,10 +1,14 @@
 # .github/workflows/gh-pages.yml
+#
 name: Build and Deploy MkDocs
 
 on:
   push:
     branches:
       - master # Trigger on commits to master
+
+permissions:
+  contents: write # for pushing to gh-pages branch
 
 jobs:
   build:
@@ -35,4 +39,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
+#
 # EOF
