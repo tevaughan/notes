@@ -1,0 +1,38 @@
+# .github/workflows/gh-pages.yml
+name: Build and Deploy MkDocs
+
+on:
+  push:
+    branches:
+      - master # Trigger on commits to master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs mkdocs-material
+          # or: pip install -r requirements.txt
+
+      - name: Generate mkdocs.yml
+        run: python3 generate_mkdocs_yml.py
+
+      - name: Build site
+        run: mkdocs build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+# EOF
