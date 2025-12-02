@@ -9,7 +9,7 @@
 
 - Set up new meeting with Kim Scott at
   Firstbank.
-  - Elme
+    - Elme
 
 - Start dealing with old checks, never
   cashed, to Mary and George.
@@ -23,28 +23,31 @@
 - Set up donation to Artseed.
 
 - Christmas-shopping:
-  - books for learning Latin
-  - model of internal-combustion engine
+    - books for learning Latin
+    - model of internal-combustion engine
 
 - Van:
-  - Schedule work at Stonum:
-    - Small leak in transmission-cooler-line
-      fitting.
-    - Locking mechanism in side-door needs
-      replacement.
+    - Schedule work at Stonum:
+        - Small leak in
+          transmission-cooler-line fitting.
+        - Locking mechanism in side-door
+          needs replacement.
 
 - Investigate supplements recommended by Joe
   Carey.
-  - Fish-oil capsules for "omega-3" fatty
-    acids.
-    - Natural Factors
-    - Nordic Naturals
-  - Pycnogenol (antioxidant from pine-bark).
-    - Supposedly helps to reduce
-      inflammation, especially in joints.
-  - L-arginine.
-    - The name reminds me of an amino acid.
-    - Joe says that it's for improved
-      circulation.
+    - Fish-oil capsules for "omega-3" fatty
+      acids.
+        - Natural Factors
+        - Nordic Naturals
+    - Pycnogenol (antioxidant from
+      pine-bark).
+        - Supposedly helps to reduce
+          inflammation, especially in
+          joints.
+    - L-arginine.
+        - The name reminds me of an amino
+          acid.
+        - Joe says that it's for improved
+          circulation.
 
 <!-- EOF -->

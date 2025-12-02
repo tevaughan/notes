@@ -5,26 +5,30 @@
 root = true
 
 [*]
-indent_style = space
+charset = utf-8
 end_of_line = lf
+indent_size = 4
+indent_style = space
 insert_final_newline = true
 max_line_length = 77
 
 [*.{js,py}]
 charset = utf-8
-
-# 2-space indentation.
-#
-# - This seems good for markdown, especially for python-markdown with
-#   mdx_truly_sane_lists, whose default configuration requires exactly two
-#   spaces between a nested list and the list that contains the nested list.
-#
-# - One might need to set `vim.g.markdown_recommended_style = false` in
-#   neovim's configuration, in order for markdown-style defined here to take
-#   effect in neovim.
-#
-[*.md]
+end_of_line = lf
 indent_size = 4
+indent_style = space
+insert_final_newline = true
+max_line_length = 77
+
+# One might need to set `vim.g.markdown_recommended_style = false` in
+# neovim's configuration, in order for markdown-style defined here to take
+# effect in neovim.
+[*.md]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
 max_line_length = 44
 
 # 3-space indentation.
@@ -32,18 +36,31 @@ max_line_length = 44
 # - This is the indentation that I want to use for most source-code.
 #
 [*.{c,cpp,h,hpp,lua}]
+charset = utf-8
+end_of_line = lf
 indent_size = 3
+indent_style = space
+insert_final_newline = true
+max_line_length = 77
 
-# 4-space indentation.
+# 4-space indentation and 88-char maximum length of line.
 #
 # - This seems good for python, which uses indentation for scoping.
 #
 [*.py]
+charset = utf-8
+end_of_line = lf
 indent_size = 4
+indent_style = space
+insert_final_newline = true
 max_line_length = 88
 
 # Tab-indentation (no size specified).
 [{Makefile,*.mk}]
+charset = utf-8
+end_of_line = lf
 indent_style = tab
+insert_final_newline = true
+max_line_length = 77
 
 # EOF
