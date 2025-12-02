@@ -28,8 +28,6 @@ landing page at the root of a notebook.
 [start]:
     https://github.com/jakewvincent/mkdnflow.nvim?tab=readme-ov-file#-starting-a-notebook
 
-- [index](./index.md)
-
 ## Views of This Project
 
 - [source](https://github.com/tevaughan/notes)
