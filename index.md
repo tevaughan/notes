@@ -1,19 +1,13 @@
-# Landing Page
+# Index
 
-I am managing the notes here via
+- [journal](journal/) is a directdory that
+  has a markdown-file for each day in the
+  journal.
 
-- [mkdnflow][mkdnflow] in [neovim][neovim]
-  and
+- [notes](notes/) is a directory that has
+  miscellaneous markdown-notes.
 
-- [GitJournal][GitJournal] on my iPhone.
-
-[mkdnflow][mkdnflow]'s author
-[recommends][start] using `index.md` as the
-landing page at the root of a notebook.
-
-[mkdnflow]: https://github.com/jakewvincent/mkdnflow.nvim
-[neovim]: https://neovim.io
-[GitJournal]: https://gitjournal.io
-[start]: https://github.com/jakewvincent/mkdnflow.nvim?tab=readme-ov-file#-starting-a-notebook
+- [to-do](./to-do.md) holds the current
+  to-do list.
 
 <!-- EOF -->
