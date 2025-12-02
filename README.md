@@ -33,7 +33,7 @@ landing page at the root of a notebook.
 ## Views of This Project
 
 - [source](https://github.com/tevaughan/notes)
-- [deployed](https://tevaughan.github.io/notes/)
+- [pages](https://tevaughan.github.io/notes/)
 
 ## Intent
 

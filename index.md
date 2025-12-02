@@ -1,8 +1,8 @@
 # Index
 
 - Views of this project:
-    - [Source](https://github.com/tevaughan/notes)
-    - [Deployed](https://tevaughan.github.io/notes/)
+    - [source](https://github.com/tevaughan/notes)
+    - [pages](https://tevaughan.github.io/notes/)
 
 - `journal/` is the directdory that has a
   markdown-file for each day in the journal.
