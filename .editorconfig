@@ -5,6 +5,7 @@
 root = true
 
 [*]
+indent_style = space
 end_of_line = lf
 insert_final_newline = true
 max_line_length = 77
@@ -23,7 +24,6 @@ charset = utf-8
 #   effect in neovim.
 #
 [*.md]
-indent_style = space
 indent_size = 2
 max_line_length = 44
 
@@ -32,7 +32,6 @@ max_line_length = 44
 # - This is the indentation that I want to use for most source-code.
 #
 [*.{c,cpp,h,hpp,lua}]
-indent_style = space
 indent_size = 3
 
 # 4-space indentation.
@@ -40,10 +39,11 @@ indent_size = 3
 # - This seems good for python, which uses indentation for scoping.
 #
 [*.py]
-indent_style = space
 indent_size = 4
+max_line_length = 88
 
 # Tab-indentation (no size specified).
 [{Makefile,*.mk}]
 indent_style = tab
 
+# EOF

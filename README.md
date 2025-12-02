@@ -1,4 +1,4 @@
-# Notes
+# T. E. Vaughan's Journal and Notes
 
 Repository for markdown-notes related to
 everything except for paid work for my
@@ -28,7 +28,7 @@ I want to be able to write math.
 
 A goal is to find a balance that allows me
 to copy things from the hand-written journal
-into this repository in the end of the day.
+into this repository at the end of the day.
 
 See [index][index].
 

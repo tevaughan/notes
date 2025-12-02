@@ -1,5 +1,5 @@
 """
-Script to generate 'mkdocs.yml'.
+Generate 'mkdocs.yml'.
 """
 
 import os
@@ -28,9 +28,13 @@ def generate_nav(directory, base_path=''):
 
 
 def main():
+    """
+    Generate content for 'mkdocs.yml', and write out file.
+    """
+
     nav = generate_nav('docs')
 
-    mkdocs_yml = f"""
+    mkdocs_yml = """
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js
   - https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js
@@ -61,9 +65,12 @@ plugins:
   - search
 """
 
-    with open('mkdocs.yml', 'w') as f:
+    with open('mkdocs.yml', 'w', encoding='utf-8') as f:
         f.write(mkdocs_yml)
 
 
 if __name__ == '__main__':
     main()
+
+
+# EOF
