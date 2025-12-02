@@ -1,16 +1,15 @@
 # Index
 
-- [README](./README.md) holds the
+- [README.md](README.md) holds the
   description of this project.
 
-- [journal](journal/) is a directdory that
-  has a markdown-file for each day in the
-  journal.
+- `journal/` is the directdory that has a
+  markdown-file for each day in the journal.
 
-- [notes](notes/) is a directory that has
+- `notes/` is the directory that has
   miscellaneous markdown-notes.
 
-- [to-do](./to-do.md) holds the current
-  to-do list.
+- [to-do.md](to-do) holds the current to-do
+  list.
 
 <!-- EOF -->

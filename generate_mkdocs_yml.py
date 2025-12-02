@@ -57,6 +57,7 @@ theme:
 
 nav:
 """
+
     for item in nav:
         mkdocs_yml += f'  - {list(item.keys())[0]}: {list(item.values())[0]}\n'
 
