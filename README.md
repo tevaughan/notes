@@ -28,16 +28,12 @@ landing page at the root of a notebook.
 [start]:
   https://github.com/jakewvincent/mkdnflow.nvim?tab=readme-ov-file#-starting-a-notebook
 
-## Quick Links
+- [index](./index.md)
 
-- Read-only [web-version][web-version] of
-  this project.
+## Views of This Project
 
-- [index][index].
-
-[index]: index.md
-[web-version]:
-  https://tevaughan.github.io/notes/
+- [source](https://github.com/tevaughan/notes)
+- [deployed](https://tevaughan.github.io/notes/)
 
 ## Intent
 
@@ -48,6 +44,7 @@ My intent is
 
 - to write notes here whenever I am at a
   keyboard with access to this repository
+
 - to write notes in the hand-written journal
   either when away from an appropriate
   keyboard or when I need to draw something
