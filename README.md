@@ -10,11 +10,11 @@ I am managing the notes here via
   and
 
 - [GitJournal][GitJournal] on my iPhone.
-  - I have GitJournal connected to this
-    repository, but my intent for GitJournal
-    is to use it mostly just to search and
-    to read notes; to compose a note only in
-    a pinch.
+    - I have GitJournal connected to this
+      repository, but my intent for
+      GitJournal is to use it mostly just to
+      search and to read notes; to compose a
+      note only in a pinch.
 
 [neovim]: https://neovim.io
 [GitJournal]: https://gitjournal.io
@@ -24,9 +24,9 @@ I am managing the notes here via
 landing page at the root of a notebook.
 
 [mkdnflow]:
-  https://github.com/jakewvincent/mkdnflow.nvim
+    https://github.com/jakewvincent/mkdnflow.nvim
 [start]:
-  https://github.com/jakewvincent/mkdnflow.nvim?tab=readme-ov-file#-starting-a-notebook
+    https://github.com/jakewvincent/mkdnflow.nvim?tab=readme-ov-file#-starting-a-notebook
 
 - [index](./index.md)
 
