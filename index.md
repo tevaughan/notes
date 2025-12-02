@@ -1,15 +1,15 @@
 # Index
 
-- [README.md](README.md) holds the
-  description of this project.
+- Views of this project:
+  - [Source](https://github.com/tevaughan/notes)
+  - [Deployed](https://tevaughan.github.io/notes/)
 
 - `journal/` is the directdory that has a
   markdown-file for each day in the journal.
 
 - `notes/` is the directory that has
   miscellaneous markdown-notes.
-
-- [to-do.md](to-do) holds the current to-do
-  list.
+  - [notes/to-do.md](./notes/to-do.md) holds
+    the current to-do list.
 
 <!-- EOF -->
