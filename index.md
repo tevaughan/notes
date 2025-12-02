@@ -1,5 +1,8 @@
 # Index
 
+- [README](./README.md) holds the
+  description of this project.
+
 - [journal](journal/) is a directdory that
   has a markdown-file for each day in the
   journal.

@@ -37,7 +37,7 @@ landing page at the root of a notebook.
 
 [index]: index.md
 [web-version]:
-  https://tevaughan.gitlab.io/notes/
+  https://tevaughan.github.io/notes/
 
 ## Intent
 
