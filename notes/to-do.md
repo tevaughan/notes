@@ -1,7 +1,7 @@
 # To Do
 
-- Review open enrollment for BAE.
 - Ask Live Oak about Fidelity X26-104175.
+- Schedule large-item pick-up by city.
 
 - Somehow deal with running out of space at
   Google (photos, email, etc.).
