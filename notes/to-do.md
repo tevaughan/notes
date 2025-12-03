@@ -1,6 +1,5 @@
 # To Do
 
-- Change title of 2017 Camry.
 - Review open enrollment for BAE.
 - Ask Live Oak about Fidelity X26-104175.
 
