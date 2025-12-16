@@ -22,7 +22,6 @@
 - Set up donation to Artseed.
 
 - Christmas-shopping:
-    - books for learning Latin
     - model of internal-combustion engine
 
 - Van:
