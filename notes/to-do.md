@@ -3,13 +3,6 @@
 - Ask Live Oak about Fidelity X26-104175.
 - Schedule large-item pick-up by city.
 
-- Somehow deal with running out of space at
-  Google (photos, email, etc.).
-
-- Set up new meeting with Kim Scott at
-  Firstbank.
-    - Elme
-
 - Start dealing with old checks, never
   cashed, to Mary and George.
 
@@ -28,8 +21,6 @@
     - Schedule work at Stonum:
         - Small leak in
           transmission-cooler-line fitting.
-        - Locking mechanism in side-door
-          needs replacement.
 
 - Investigate supplements recommended by Joe
   Carey.
