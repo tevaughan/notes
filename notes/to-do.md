@@ -3,7 +3,11 @@
 - Ask Live Oak about Fidelity X26-104175.
 - Schedule large-item pick-up by city.
 
-- 68" perimeter by 2 7/8" by 5/8" for drawer
+- drawer
+  - 14" by 19.5"
+  - 2.75" by t=0.5" for sides of drawer
+  - 2 x 19.5"
+  - 2 x [14" - 2 t]
 
 - Somehow deal with running out of space at
   Google (photos, email, etc.).
