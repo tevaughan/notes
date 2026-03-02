@@ -1,27 +1,19 @@
 # To Do
 
+- Cancel accounts at FirstBank.
+    - $12-per-month fee is silly.
+    - There is about $1300 in checking.
+
 - Ask Live Oak about Fidelity X26-104175.
-- Schedule large-item pick-up by city.
 
-- drawer
-  - 14" by 19.5"
-  - 2.75" by t=0.5" for sides of drawer
-  - 2 x 19.5"
-  - 2 x [14" - 2 t]
-
-- Somehow deal with running out of space at
-  Google (photos, email, etc.).
-
-- Set up new meeting with Kim Scott at
-  Firstbank.
-    - Elme
+- Schedule replacement for trash-can with
+  broken wheel.
 
 - Start dealing with old checks, never
   cashed, to Mary and George.
 
 - Go through stuff in box under desk.
 
-- Cancel watch-line at T-mobile.
 - Work on rust.
 - Work on python.
 - Read Maritain's book on being.
@@ -32,10 +24,9 @@
 
 - Van:
     - Schedule work at Stonum:
+        - Check-engine light is on.
         - Small leak in
           transmission-cooler-line fitting.
-        - Locking mechanism in side-door
-          needs replacement.
 
 - Investigate supplements recommended by Joe
   Carey.
