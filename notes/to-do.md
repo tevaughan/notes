@@ -1,5 +1,12 @@
 # To Do
 
+- Make sure that both trash-cans go out to
+  the curb on Wednesday.
+    - Leave the broken one out even after
+      garbage-pick-up until it gets fixed or
+      replaced by a different truck that
+      will come by later.
+
 - Cancel accounts at FirstBank.
     - $12-per-month fee is silly.
     - There is about $1300 in checking.
