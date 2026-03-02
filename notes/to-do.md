@@ -4,8 +4,6 @@
     - $12-per-month fee is silly.
     - There is about $1300 in checking.
 
-- Ask Live Oak about Fidelity X26-104175.
-
 - Schedule replacement for trash-can with
   broken wheel.
 
