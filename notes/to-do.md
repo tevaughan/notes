@@ -1,18 +1,8 @@
 # To Do
 
-- Make sure that both trash-cans go out to
-  the curb on Wednesday.
-    - Leave the broken one out even after
-      garbage-pick-up until it gets fixed or
-      replaced by a different truck that
-      will come by later.
-
 - Cancel accounts at FirstBank.
     - $12-per-month fee is silly.
     - There is about $1300 in checking.
-
-- Schedule replacement for trash-can with
-  broken wheel.
 
 - Start dealing with old checks, never
   cashed, to Mary and George.
@@ -30,24 +20,13 @@
 - Van:
     - Schedule work at Stonum:
         - Check-engine light is on.
+            - O2-sensor or cable to it,
+              apparently.
         - Small leak in
           transmission-cooler-line fitting.
 
-- Investigate supplements recommended by Joe
-  Carey.
-    - Fish-oil capsules for "omega-3" fatty
-      acids.
-        - Natural Factors
-        - Nordic Naturals
-    - Pycnogenol (antioxidant from
-      pine-bark).
-        - Supposedly helps to reduce
-          inflammation, especially in
-          joints.
-    - L-arginine.
-        - The name reminds me of an amino
-          acid.
-        - Joe says that it's for improved
-          circulation.
+- Toyota Highlander:
+    - Replace wheel-key.
+    - Have Stapp look at it.
 
 <!-- EOF -->
